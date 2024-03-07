@@ -13,4 +13,20 @@ void main(List<String> args) {
   // RAW String
   var rawString = r'In a raw string, not event \n gets special treatment.';
   print(rawString);
+
+  var multiLineString1 = '''
+    A 
+                     Random
+    Text
+  ''';
+
+  var multiLineString2 = """
+    A
+                     Multi
+    Line
+                     String
+  """;
+
+  print(multiLineString1);
+  print(multiLineString2);
 }
