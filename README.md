@@ -10,9 +10,9 @@ O principal objetivo deste projeto é fornecer recursos para aprendizado e prát
 
 O repositório está estruturado da seguinte forma:
 
-- **[Fundamentals](/fundamentals):** Contém exemplos introdutórios e conceitos fundamentais da linguagem Dart, como variáveis, estruturas de controle, funções, etc.
+- **[Fundamentals](/fundamentals):** Este repositório contém uma série de exemplos em Dart, destinados a ajudar iniciantes e desenvolvedores intermediários a entender os fundamentos da linguagem Dart.
 
-- **[Operators](/operators/):** Apresenta exemplos relacionados à programação orientada a objetos em Dart, incluindo classes, operadores, herança, polimorfismo, encapsulamento, entre outros.
+- **[Operators](/operators/):** Este repositório contém uma série de exemplos em Dart que demonstram o uso dos diferentes tipos de operadores disponíveis na linguagem.
 
 - **/colections:** Demonstração de como utilizar diferentes tipos de coleções em Dart, como listas, mapas, conjuntos, entre outros.
 
