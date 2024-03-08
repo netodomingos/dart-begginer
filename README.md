@@ -25,6 +25,15 @@ Além deste repositório, existem diversos outros recursos disponíveis para aux
 - Comunidade Dart no Reddit: [https://www.reddit.com/r/dartlang/](https://www.reddit.com/r/dartlang/)
 - Dart Discord Channel: [https://discord.gg/dart-lang](https://discord.gg/dart-lang)
 
+## Versão Dart
+
+[![Dart](https://shields.io/badge/dart-3.3.0-blue)](https://choosealicense.com/licenses/mit/)
+
 ## Licença
 
 Este projeto é distribuído sob a licença [MIT](LICENSE). Sinta-se livre para utilizar, modificar e distribuir o código conforme sua necessidade.
+
+#### Autor
+| <img src="https://avatars0.githubusercontent.com/u/49910898?s=460&u=a8c0048c6136be345c135cc098b37378c6c9b33f&v=4" width="100" height="100" /> |
+| :---:  |
+| [Neto Domingos](https://github.com/netodomingos) |
