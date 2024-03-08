@@ -12,7 +12,7 @@ O repositório está estruturado da seguinte forma:
 
 - **[Fundamentals](/fundamentals):** Contém exemplos introdutórios e conceitos fundamentais da linguagem Dart, como variáveis, estruturas de controle, funções, etc.
 
-- **[Operators](/operators/):** Apresenta exemplos relacionados à programação orientada a objetos em Dart, incluindo classes, herança, polimorfismo, encapsulamento, entre outros.
+- **[Operators](/operators/):** Apresenta exemplos relacionados à programação orientada a objetos em Dart, incluindo classes, operadores, herança, polimorfismo, encapsulamento, entre outros.
 
 - **/colections:** Demonstração de como utilizar diferentes tipos de coleções em Dart, como listas, mapas, conjuntos, entre outros.
 
