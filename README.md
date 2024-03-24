@@ -16,7 +16,9 @@ O repositório está estruturado da seguinte forma:
 
 - **[Loops](/loops/):** Este repositório contém uma série de exemplos em Dart que demonstram o uso das estruturas de repetição em Dart.
 
-- **/colections:** Demonstração de como utilizar diferentes tipos de coleções em Dart, como listas, mapas, conjuntos, entre outros.
+- **[Collections](/collections/):** Demonstração de como utilizar diferentes tipos de coleções em Dart, como listas, mapas, conjuntos, entre outros.
+
+- **[Functions](/functions/):** Demonstração de como utilizar funções em Dart, como Funções de Ordem Superior, Funções Anônimas, entre outros.
 
 ## Recursos Adicionais
 
