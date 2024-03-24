@@ -22,6 +22,8 @@ O repositório está estruturado da seguinte forma:
 
 - **[Class](/class/):** Demonstração de como utilizar classes em Dart, incluindo a declaração de classes, membros de classe e construtores.
 
+- **[Exception](/exception/):** Demonstração de como utilizar tratamento de exceções em Dart, incluindo a sintaxe try-catch e as melhores práticas para lidar com exceções.
+
 ## Recursos Adicionais
 
 Além deste repositório, existem diversos outros recursos disponíveis para auxiliar no aprendizado e desenvolvimento em Dart, incluindo:
