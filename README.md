@@ -14,6 +14,8 @@ O repositório está estruturado da seguinte forma:
 
 - **[Operators](/operators/):** Este repositório contém uma série de exemplos em Dart que demonstram o uso dos diferentes tipos de operadores disponíveis na linguagem.
 
+- **[Loops](/loops/):** Este repositório contém uma série de exemplos em Dart que demonstram o uso das estruturas de repetição em Dart.
+
 - **/colections:** Demonstração de como utilizar diferentes tipos de coleções em Dart, como listas, mapas, conjuntos, entre outros.
 
 ## Recursos Adicionais
