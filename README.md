@@ -20,6 +20,8 @@ O repositório está estruturado da seguinte forma:
 
 - **[Functions](/functions/):** Demonstração de como utilizar funções em Dart, como Funções de Ordem Superior, Funções Anônimas, entre outros.
 
+- **[Class](/class/):** Demonstração de como utilizar classes em Dart, incluindo a declaração de classes, membros de classe e construtores.
+
 ## Recursos Adicionais
 
 Além deste repositório, existem diversos outros recursos disponíveis para auxiliar no aprendizado e desenvolvimento em Dart, incluindo:
