@@ -24,6 +24,8 @@ O repositório está estruturado da seguinte forma:
 
 - **[Exceptions](/exception/):** Demonstração de como utilizar tratamento de exceções em Dart, incluindo a sintaxe try-catch e as melhores práticas para lidar com exceções.
 
+- **[OOP](/oop/):** Demonstração dos conceitos básicos de orientação a objetos em Dart, incluindo classes, objetos e herança.
+
 ## Recursos Adicionais
 
 Além deste repositório, existem diversos outros recursos disponíveis para auxiliar no aprendizado e desenvolvimento em Dart, incluindo:
