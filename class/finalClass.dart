@@ -13,6 +13,7 @@ class FinalClass {
 void main(List<String> args) {
   var person = FinalClass("Geraldo");
 
+  print(FinalClass.age); // Static
   person.printFinalItems();
 
   // person.name = "Test"; Error
