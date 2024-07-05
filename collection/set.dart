@@ -1,9 +1,11 @@
 void main(List<String> args) {
-  var fruts = <String>{"Orange", "Mango", "Lime", "Orange"};
-  Set<String> names = {"Orange", "Mango", "Lime", "Orange"};
+  Set<String> fruits = {"Orange", "Mango", "Lime"};
 
-  fruts.forEach((element) => print(element));
-  names.forEach((element) => print(element));
+  fruits.add("Mango"); // nao permite valores iguais
+
+  fruits.add("strawberry");
+
+  fruits.forEach((element) => print(element));
 
   // Retornará Orange, Mango e Lime, pois SET só permite itens únicos.
 }

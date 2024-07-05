@@ -11,6 +11,11 @@ void main(List<String> args) {
     "third": 600,
   }; // Chave valor
 
+  Map<String, dynamic> travelPrices = {"Rio de Janeiro": 600, "Recife": 200};
+
+  travelPrices["Curitiba"] = {"Valor": 2000, "Gostei": false};
+
   print(awards['first']);
   print(awards2['second']);
+  print(travelPrices);
 }
